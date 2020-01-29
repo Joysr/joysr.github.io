@@ -1,0 +1,11 @@
+{
+  "name": "personal-wiki",
+  "version": "0.1.0",
+  "description": "Personal Wiki powered by TiddlyWiki",
+  "main": "index.js",
+  "author": "Vicia Sun",
+  "license": "MIT",
+  "scripts": {
+    "start": "tiddlywiki . --listen port=12404"
+  }
+}
