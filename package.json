@@ -6,6 +6,7 @@
   "author": "Vicia Sun",
   "license": "MIT",
   "scripts": {
-    "start": "tiddlywiki . --listen port=12404"
+    "start": "tiddlywiki . --listen port=12404",
+    "push": "git add . && git commit -m \"chore: update items\" && git push origin master -f"
   }
 }
