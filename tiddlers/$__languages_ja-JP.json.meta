@@ -1,0 +1,11 @@
+author: Makoto Hirohashi, OGOSHI Masayuki, pekopeko1
+core-version: >=5.1.4
+created: 20200129135409159
+dependents: 
+description: Japanese (Japan)
+modified: 20200129135409159
+name: ja-JP
+plugin-type: language
+title: $:/languages/ja-JP
+type: application/json
+version: 5.1.21
